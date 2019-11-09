@@ -40,7 +40,7 @@ public class InterviewQuestions {
 		
 		//7.Write a java program to check whether a given number is prime or not?
 		int num=101;
-		if(num/2==0 || num/3==0 || num/5==0 || num/7==0 || num/11==0) {
+		if(num%2!=0 || num/3!=0 || num/5==0 || num/7==0 || num/11==0) {
 			System.out.println("not prime");
 		}
 		System.out.println("-------------");

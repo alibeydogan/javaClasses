@@ -6,6 +6,8 @@ public class Deneme {
 	    
 	    System.out.println("The multiplication of "+ed+" value with itself is equal to "+ed*ed);
 	    
+	    
+	    
 		  
 		
 	    
