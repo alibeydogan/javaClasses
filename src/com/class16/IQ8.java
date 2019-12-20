@@ -17,7 +17,6 @@ public class IQ8 {
 			c = a + b;
 			a = b;
 			b = c;
-
 		}
 	}
 }
